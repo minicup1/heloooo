@@ -1,5 +1,1 @@
-local data = {
-
-}
-
-return data
+{"Name1":{"Abilities":"Example ability","EntityName":"Example Name","Description":"Example description","Player":"Example Author"}}
